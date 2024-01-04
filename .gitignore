@@ -1,0 +1,25 @@
+#################################################
+# R IGNORABLES
+#################################################
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# R Environment Variables
+.Renviron
+
+#################################################
+# MAC OS IGNORABLES
+#################################################
+# General
+.DS_Store
